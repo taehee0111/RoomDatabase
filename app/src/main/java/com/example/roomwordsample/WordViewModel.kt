@@ -1,4 +1,4 @@
-package com.example.roomwordsample_
+package com.example.roomwordsample
 
 import androidx.lifecycle.*
 import kotlinx.coroutines.launch

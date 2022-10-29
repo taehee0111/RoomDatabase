@@ -1,4 +1,4 @@
-package com.example.roomwordsample_
+package com.example.roomwordsample
 
 import org.junit.Test
 
